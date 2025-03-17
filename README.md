@@ -54,5 +54,8 @@ cd InstantPlate
 - Install **MongoDB Compass** to manage the database visually.
 - Ensure MongoDB is running before starting the backend.
 
+### **MongoDB Setup**
+- Install **MongoDB Compass (GUI)** from [MongoDB Download](https://www.mongodb.com/try/download/compass) to manage your database easily.
+
 ## 🐝 License
 This project is licensed under the **MIT License**.
